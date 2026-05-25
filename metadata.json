@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Space Explorer",
+  "description": "An interactive, high-fidelity exploration of planets, missions, and deep-space objects with real-time celestial particle simulations, space audio ambient controls, and customizable stellar voyages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
